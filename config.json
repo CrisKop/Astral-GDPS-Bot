@@ -1,0 +1,25 @@
+{
+    "prefix": "a!",
+    "token": "NjkxMDY5NDU2MDE2NzM2MjY2.XncMhw.B0noXFM8z-hWZJIBtL8v7kVuVdI",
+    "ownerid": "618633182241357834",
+    "host": "http://astrgdps.000webhostapp.com/database",
+    "ratechannel": "691138001857806337",
+    "emotes": {
+        "star": "<:star:691073392257925162>",
+        "diamond": "<:diamond:691073381210259598>",
+        "coin": "<:coin:691073369235390554>",
+        "usercoin": "<:usercoin:691073503922880573>",
+        "demon": "<:demon:691073378756591787>",
+        "cp": "<:cp:691073369428197456>",
+        "rank": "<:rank:691073392555851887>",
+        "yt": "<:yt:691073503541198899>",
+        "twitch": "<:twitch:691073392329359421>",
+        "twitter": "<:twitter:691075867266252910>",
+        "like": "<:like:691073387602247711>",
+        "dislike": "<:dislike:691073381000413215>",
+        "downloads": "<:downloads:691073381617107034>",
+        "time": "<:time:691073392484286515>",
+        "highobj": "<:highobj:691073381805850624>",
+        "collab": "<:collab:691073369436848148>"
+    }
+}
